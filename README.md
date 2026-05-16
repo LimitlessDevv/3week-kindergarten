@@ -1,5 +1,5 @@
 ---
-이름: 000
-GitHub ID: 000
-자기소개: 000
+이름: 최인영
+GitHub ID: LimitlessDevv
+자기소개: 안녕하세요:)
 ---
